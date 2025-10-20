@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "id": 1,
+    "description": "Connect with friends, share photos, videos, and stay updated with the latest news and communities around the world.",
+    "size": 85,
+    "reviews": 10234567,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 950000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
+    "title": "Instagram",
+    "companyName": "Instagram, Meta Platforms Inc.",
+    "id": 2,
+    "description": "A social media app to share photos, reels, and stories while connecting with friends and creators worldwide.",
+    "size": 120,
+    "reviews": 8560000,
+    "ratingAvg": 4.4,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 4300000 }
+    ]
+  },
+  {
+    "image": "https://psfonttk.com/wp-content/uploads/2021/08/tiktok-png-transparent.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 3,
+    "description": "Watch, create, and share short videos with music, effects, and creativity that defines a generation.",
+    "size": 160,
+    "reviews": 11200000,
+    "ratingAvg": 4.3,
+    "downloads": 3500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2700000 },
+      { "name": "5 star", "count": 5600000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 4,
+    "description": "Stream millions of songs, create playlists, and discover new music and podcasts from artists around the globe.",
+    "size": 75,
+    "reviews": 9700000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 6000000 }
+    ]
+  },
+  {
+    "image": "https://pngimg.com/uploads/netflix/netflix_PNG22.png",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 5,
+    "description": "Watch your favorite movies, series, and exclusive Netflix Originals anytime, anywhere.",
+    "size": 110,
+    "reviews": 8650000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/022/613/026/original/google-play-store-icon-logo-symbol-free-png.png",
+    "title": "Google Play Store",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Discover and download apps, games, books, movies, and more from the world's largest app store.",
+    "size": 55,
+    "reviews": 11000000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 5600000 }
+    ]
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th/id/OIP.VueozdKMqL0-X9Nw-Y-kXAHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Watch, upload, and share videos from creators around the world with personalized recommendations.",
+    "size": 95,
+    "reviews": 20500000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 8500000 }
+    ]
+  },
+  {
+    "image": "https://tse4.mm.bing.net/th/id/OIP.GC-B3wbRYwHUVVvTXG59KgHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "id": 8,
+    "description": "Fast, secure, and simple web browser built for modern web experiences with synchronization across devices.",
+    "size": 130,
+    "reviews": 9500000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 6550000 }
+    ]
+  }
+]
