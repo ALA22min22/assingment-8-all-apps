@@ -1,7 +1,7 @@
-# 🚀 React + Vite Multi-Feature SPA
+# 📱 Android Application Showcase - SPA
 
 ## 📖 Project Overview
-This project is a React + Vite SPA designed to showcase multiple app features in a single environment. It uses modern tooling for fast refresh, linting, and optimized builds. The live deployment is hosted on Netlify.
+This project is a React + Vite Single Page Application (SPA) designed to simulate an Android application showcase platform. It allows users to explore various apps, search for specific ones, and simulate an installation process that persists within the session. The live deployment is hosted on Netlify.
 
 ## 🖼 Screenshot
 ![App Screenshot](https://i.ibb.co.com/n80PkjWx/Screenshot-2026-01-05-033436.png)
@@ -14,39 +14,41 @@ This project is a React + Vite SPA designed to showcase multiple app features in
 * **Vite** – Fast build tool with HMR
 * **JavaScript** – Core programming language
 * **HTML** – Markup structure
-* **CSS** – Styling and layout
-* **ESLint** – Code linting and best practices
+* **CSS / Tailwind** – Styling and layout
+
 
 ---
 
 ## 🌟 Core Features
-* **Single Page Application (SPA)** with smooth navigation.
-* **Hot Module Replacement (HMR)** for instant updates during development.
-* **Reusable Components** for scalable UI design.
-* **Netlify Deployment** for live hosting.
-* **Linting Rules** to enforce clean code.
+* **🏠 Featured Home Page:** Displays a curated selection of featured applications upon landing.
+* **📂 All Applications Page:** A comprehensive list of all available applications.
+* **🔍 Search Functionality:** Easily find specific apps using the built-in search bar on the applications page.
+* **📥 Permanent Installation Logic:** Once an application is installed, the "Install" button becomes permanently disabled for that session.
+* **📊 Installations Dashboard:** A dedicated page to view all installed applications and the total count of apps installed.
+* **🔃 Advanced Sorting:** Sort your installed applications using the "Sort By" option to organize your dashboard.
+* **🚀 Smooth Navigation:** Fast and fluid SPA navigation between different pages.
 
 ---
 
 ## 📦 Dependencies
 From `package.json`, the key dependencies include:
-* **react**
-* **react-dom**
+* **react** & **react-dom**
+* **react-router-dom** (for SPA navigation)
 * **@vitejs/plugin-react**
 * **eslint**
 *(Optional dev dependencies: vite, eslint-config, etc.)*
 
 ---
 
-## 💻 How to Run Locally
+## 🛠️ Step-by-Step Guide to Run Locally
 
 Follow these steps to set up the project on your local machine:
 
 **1. Clone the repository:**
-> git clone https://github.com/ALA22min22/assingment-8-all-apps.git
+> git clone https://github.com/ALA22min22/Green-Earth-VS.git
 
 **2. Navigate to the project directory:**
-> cd assingment-8-all-apps
+> cd Green-Earth-VS
 
 **3. Install dependencies:**
 > npm install
@@ -64,8 +66,8 @@ Follow these steps to set up the project on your local machine:
 ---
 
 ## 🔗 Resources
-* **Live Site:** [jocular-hummingbird-726c25.netlify.app](https://jocular-hummingbird-726c25.netlify.app/)
-* **Repository:** [GitHub Repo](https://github.com/ALA22min22/assingment-8-all-apps)
+* **Live Site:** [stupendous-lebkuchen-9d1fcc.netlify.app](https://stupendous-lebkuchen-9d1fcc.netlify.app/)
+* **Repository:** [GitHub Repo](https://github.com/ALA22min22/Green-Earth-VS)
 * **React Docs:** [react.dev](https://react.dev/)
 * **Vite Docs:** [vitejs.dev](https://vitejs.dev/)
 
