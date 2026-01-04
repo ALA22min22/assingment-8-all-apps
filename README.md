@@ -4,8 +4,8 @@
 This project is a React + Vite SPA designed to showcase multiple app features in a single environment. It uses modern tooling for fast refresh, linting, and optimized builds. The live deployment is hosted on Netlify.
 
 ## 🖼 Screenshot
-![App Screenshot](https://i.ibb.co/placeholder-image.png)
-*(Note: Replace this link with your actual screenshot from the public folder or live site)*
+![App Screenshot](https://i.ibb.co.com/n80PkjWx/Screenshot-2026-01-05-033436.png)
+
 
 ---
 
